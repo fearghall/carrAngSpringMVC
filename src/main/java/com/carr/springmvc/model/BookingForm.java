@@ -9,6 +9,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 public class BookingForm {
 	private String longname;
 	String phone;
+	String repoCheck;
 	private String comment;
 	private String checkin;
 	private String checkout;
